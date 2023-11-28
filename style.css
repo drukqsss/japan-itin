@@ -38,8 +38,6 @@ img {
     margin-top: 5px;
 }
 
-@media (max-width: 1000px) {
-    div {
-        background: yellow;
-    }
-}
+[class*="col-"] {
+    background-color: yellow;
+  }
