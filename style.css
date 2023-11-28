@@ -38,6 +38,9 @@ img {
     margin-top: 5px;
 }
 
-[class*="col-"] {
-    background-color: yellow;
-  }
+@media only screen and (max-width: 600px) {
+    body {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
