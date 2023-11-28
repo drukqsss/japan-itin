@@ -37,3 +37,9 @@ img {
 .heading p {
     margin-top: 5px;
 }
+
+@media (max-width: 1000px) {
+    div {
+        background: yellow;
+    }
+}
