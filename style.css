@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap');
+
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #dadada;
+    background-color: #1e1e1e;
+}
+
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+}
+
+p, li {
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    color: rgb(139, 108, 239);
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+.heading {
+    display: block;
+}
+
+.heading h2 {
+    margin-bottom: 0px;
+}
+
+.heading p {
+    margin-top: 5px;
+}
